@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Printing new files alx
- * Return: Always 0 (It a Success)
+ * main - Printing new file
+ * Return: Always 0 (success at last)
  */
-init main(void)
+int main(void)
 {
-	puts("\"Programming is like building multilingual puzzle");
+	puts("\"Programming is like a multilingual puzzle");
 	return (0);
 }
