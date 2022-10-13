@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Printing new files alx
  * Return: Always 0 (It a Success)
