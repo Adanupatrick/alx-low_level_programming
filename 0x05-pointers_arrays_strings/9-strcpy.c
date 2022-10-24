@@ -2,8 +2,8 @@
 
 /**
  * _strcpy - coping of string
- * @dest: destination of pointer
- * @src: source of value
+ * @dest: destination
+ * @src: source
  * Return: string
  */
 char *_strcpy(char *dest, char *src)
